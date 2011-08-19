@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="32">
+            <Title>Sample MS</Title>
+            <Text>Andrew Nonymous Your manuscript should have your address and contact details on the title page only.
+If you have an agent, your agent's address can be included beneath.
+Novel Standard Manuscript Format by A. Nonymous
+700 words.
+Part One: Part Folder Title Goes Here
+Chapter One Chapter Folder Title Goes Here
+Standard manuscript format is often required for novels so that work can easily be read by editors. It allows editors to estimate word count and determine roughly how many pages will be required to produce a book using the page size, style and font used by their house. This PDF file was generated using Scrivener's Compile feature and was created using the "Novel" project template.
+Manuscripts for full-length novels require a separate title page. The author's name, address, telephone number and e-mail address should be shown in the upper-left corner of the title page, single-spaced. The title of the story should appear in all-caps about half-way down the page. The author's name follows the title on the by-line as the author wants it
+Surname / TITLE / 1
+to appear when published. A real name or pseudonym may be used and may include initials, actual given name or professional designation.
+Surname / TITLE / 2
+Chapter Two Another Chapter Folder
+All text should be double-spaced and left-justified with a ragged right margin. Paragraphs should be indented by about five spaces (half an inch) and not separated by an additional blank line. (It used to be traditional to separate each sentence with two spaces, but in these days of word processors this is now less common.) A 12-point font such as Courier, Times New Roman or Arial should be used throughout. In Scrivener, however, you can write using any font and formatting you choose - the "Formatting" pane of the Compile sheet can be used to change the formatting in the compiled document. In the "Novel" project template, the Compile settings will deal with changing the font and formatting to those required for standard manuscript format.
+Top, bottom, left and right margins should all be
+Surname / TITLE / 3
+approximately one inch, not allowing for the page header. Each page except for the title page should include a header comprising the author's real surname, the title of the work (or a key word from the title) in capitals, and the page number. In Scrivener, all of this is handled in the "Page Settings" pane of the Compile sheet.
+# Scene breaks are indicated with the hash character. Do
+not simply add an extra line space as this can be missed by the typesetter. The "Separators" pane of Scrivener's Compile sheet can handle this for you if you are writing each scene as a separate text document.
+Indicate italics by underlining. In Scrivener, you can use italics and set them to be converted to underlines upon export or print by using "Convert italics to underline" in the "Text Options" pane of the Compile sheet.
+Surname / TITLE / 4
+Part Two: Another Part Folder
+Chapter Three Chapter Folder Title
+Begin each new chapter on a new page like this with the chapter number about a third of the way down the page. In Scrivener, this can all be dealt with in the Compile settings. The "Separators" pane of the Compile sheet can be set to start a new page for each chapter folder, and the "Formatting" pane can be used to add page padding at the top of the new page and insert the chapter number (the latter using the "Title Settings"). All of this has already been done for you in the "Novel" project template.
+Although it is often said that writers should not use the word-count features of their computers to determine the number of words in a manuscript, most publishers and editors will happily accept a word processor word count these days. In
+Surname / TITLE / 5
+Scrivener, you can insert a word count of your manuscript by using Edit > Insert > Draft Word Count (for a manuscript, you may wish to have the word count rounded to the nearest 100, in which case select Edit > Insert > Draft Word Count > Rounded To Nearest 100--this feature is used on the title page of this manuscript, in fact). Note that the actual word count will not be inserted, but a tag that will be substituted for the word count upon export. In reality, the formatting of a manuscript is often only really crucial when submitting directly to a publisher--first time novelists will usually submit to an agent first, and agents are often less picky about format and will point you in the right direction before submitting your work to a publisher.
+# Much of the information contained in this document is
+based on a description of novel manuscript format by Matt Carless for the BBC Writers' Room website: http:// www.bbc.co.uk/writersroom
+&lt;&lt;&lt;&lt;>>>>
+Surname / TITLE / 6
+</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Part 1</Title>
+            <Text>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.	
+Let’s test this
+
+</Text>
+        </Document>
+        <Document ID="18">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="33">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="26">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="11">
+            <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>Your Name
+Your Address
+
+
+
+Your phone number
+Your e-mail address
+
+(Your agent’s name)
+(Your agent's address)
+&lt;$wc100> words.
+
+
+
+
+
+
+
+
+
+Greyscale
+
+by Benjamin Strunk</Text>
+            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.</Notes>
+        </Document>
+        <Document ID="34">
+            <Title>Western Continent Coast</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Chapter</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Novel Format</Title>
+            <Text>NOVEL WITH PARTS (STANDARD MANUSCRIPT FORMAT)
+
+About This Template
+When compiled (File > Compile), this project will generate a document in the standard manuscript format for novels.
+
+How To Use this Template
+	•	Edit the Title Page document to ensure it contains the correct information.
+	•	Create a new folder for each part of your novel at the same level as the Title Page document. Two folders have been created at that level for you, with the placeholder title “Part”. You should rename these with the titles of the parts of your novel. For instance, Milan Kundera’s The Unbearable Lightness of Being’s first part is entitled “PART ONE: Lightness and Weight”. In that example, you would name the part, “Lightness and Weight” (the “Part One” will be added during Compile). You can choose not to include these titles during the Compile process.
+	•	Create a new folder for each chapter inside the relevant “Part” folder and title each folder with the name of the chapter. If you don’t intend to use chapter names, just enter use something descriptive that tells you what the chapter is about. (You do not need to title the folders “Chapter One” and so on, as chapter numbering will be taken care of automatically during the Compile process.) Some chapter folders have been created for you with the placeholder title “Chapter”.
+	•	Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character.)
+	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents > Change Icon feature.)
+	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template > Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+	•	Compile your manuscript into standard manuscript format by selecting File > Compile.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+	•	Part subtitles: If you don’t want to include the titles of your “Part” folders in your compiled manuscript, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 1” folder item. Then click on “Title Settings” and remove the colon and space at the end of the title prefix (“Part &lt;$t:part>”).
+	•	Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 2+” folder item and the “Level 1” and “Level 2” text items.
+	•	Page header: You can edit the page header in the “Page Settings” pane of the Compile sheet.
+	•	Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+	1.	Rename the “Scene” documents to use your chapter titles and move them so that they are contained directly inside the “Part” folders (that is, at the same level as the current “Chapter” folders).
+	2.	Move the chapter folders to the Trash.
+	3.	Create a new text document for each chapter.
+	4.	In the “Separators” pane of the Compile sheet, change the “Text separator” setting to “Page break”.
+
+Sample Document
+See the “Sample MS” PDF file in the Research folder for an example of a document that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File > Save As Template.</Text>
+        </Document>
+        <Document ID="35">
+            <Title>Setting Sketch</Title>
+            <Text>Western Continent
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="20">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="36">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Part 2</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="4">
+            <Title>Chapter</Title>
+        </Document>
+        <Document ID="22">
+            <Title>Setting Sketch</Title>
+            <Text>Western Continent
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="30">
+            <Title>Chapter</Title>
+        </Document>
+        <Document ID="31">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>

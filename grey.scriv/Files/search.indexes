@@ -2,7 +2,7 @@
 <SearchIndexes Version="1.0">
     <Documents>
         <Document ID="32">
-            <Title>Sample MS</Title>
+            <Title>Sample Manuscript</Title>
             <Text>Andrew Nonymous Your manuscript should have your address and contact details on the title page only.
 If you have an agent, your agent's address can be included beneath.
 Novel Standard Manuscript Format by A. Nonymous
@@ -45,6 +45,19 @@ Let’s test this
         <Document ID="18">
             <Title>Places</Title>
         </Document>
+        <Document ID="40">
+            <Title>Themes</Title>
+            <Text>The fallacy of good and evil
+The bonds of family (in good/ill ways) - since bonds can hold people together in common cause but also can hold people in prison
+Bigotry / Fear of the Unknown
+Societal norms tested
+Acceptance
+Betrayal
+Struggle for rule
+Struggle to rule (justly)
+
+</Text>
+        </Document>
         <Document ID="33">
             <Title>Scene</Title>
         </Document>
@@ -74,7 +87,8 @@ Your e-mail address
 
 
 
-Greyscale
+Greyscales
+
 
 by Benjamin Strunk</Text>
             <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.</Notes>
@@ -124,7 +138,7 @@ Scrivener project templates are flexible and are not intended to restrict you to
 
 	Role in Story:	
 
-	Related Characters:	
+	Related Characters:	Westerners
 
 	Season:	
 
@@ -142,7 +156,7 @@ Scrivener project templates are flexible and are not intended to restrict you to
             <Title>Template Sheets</Title>
         </Document>
         <Document ID="36">
-            <Title>Character Sketch</Title>
+            <Title>Westerners</Title>
             <Text>Character Name
 
 	Role in Story:	
@@ -164,6 +178,8 @@ Physical Description:
  	
 
 	Notes:	</Text>
+            <Notes>Predominance of twins
+Powers tied to twins being together</Notes>
         </Document>
         <Document ID="29">
             <Title>Part 2</Title>
@@ -215,11 +231,48 @@ Physical Description:
 
 	Notes:	</Text>
         </Document>
+        <Document ID="38">
+            <Title>Easterners</Title>
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+            <Notes>Predominance of twins
+Powers tied to twins being together</Notes>
+        </Document>
         <Document ID="6">
             <Title>Scene</Title>
         </Document>
         <Document ID="30">
             <Title>Chapter</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Plot ideas</Title>
+            <Text>Twins torn apart / reunited - the bond between the race of twins
+Invasion from “the others”
+A family to be redeemed
+The resurgence of magic/magical things and how that might look to those who do not believe
+Friendships and how they form and are tested
+
+
+</Text>
         </Document>
         <Document ID="31">
             <Title>Scene</Title>
